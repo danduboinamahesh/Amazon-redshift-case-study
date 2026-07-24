@@ -387,22 +387,3 @@ Through this project, the following concepts were implemented:
 * SQL Aggregate Functions
 * Business Analytics using SQL
 
----
-
-# Future Enhancements
-
-* Automate the ETL pipeline using AWS Glue or Apache Airflow
-* Implement incremental data loading
-* Optimize Redshift tables using Distribution Styles and Sort Keys
-* Add logging and monitoring
-* Create dashboards using Amazon QuickSight or Power BI
-
----
-
-# Author
-
-**Anubhav Shivhare**
-
-B.Tech – Computer Science Engineering
-
-Data Engineering | AWS | SQL | Amazon Redshift
